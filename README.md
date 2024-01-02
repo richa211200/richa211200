@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richa211200" alt="richa211200" /></a> </p>
 
-- 💬 Ask me about **Android development, C++, Java**
+- 💬 Ask me about **Android development (Java / Kotlin), C++**
 
 - 📫 How to reach me **richapatel211200@gmail.com**
 
-- ⚡ Fun fact **Love exploring and experimenting with Java and C++**
+- ⚡ Fun fact **Love exploring and experimenting with Android (Java / Kotlin) and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
