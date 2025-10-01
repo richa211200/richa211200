@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richa Patel</h1>
-<h3 align="center">A passionate Android Developer (Java, Kotlin) , C++ developer from India </h3>
+<h3 align="center">A passionate Senior Software Developer from India </h3>
+</n>
+<h3 align="left"> I've worked with Android (Kotlin, Java) and C++ over 4 years work experience </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa211200&label=Profile%20views&color=0e75b6&style=flat" alt="richa211200" /> </p>
 
