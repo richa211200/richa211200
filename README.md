@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **richapatel211200@gmail.com**
 
-- ⚡ Fun fact **Love exploring and experimenting with Java and C++**
+<!-- - ⚡ Fun fact **Love exploring and experimenting with Java and C++** -->
 
 <!--<h3 align="left">Connect with me:</h3> -->
 <!--<p align="left"> -->
